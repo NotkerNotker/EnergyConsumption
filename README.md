@@ -38,3 +38,7 @@ https://www.eia.gov/state/seds/seds-data-complete.php#CompleteDataFile
 
 
 We will look at different states, dates, and types of energy used
+
+## Results
+
+While coal on the national scale has gone down significantly since the 60s in favor of cleaner resources, the chosen alternative fuel sources differ on a state by state basis. Natural gas does seem to be the go to alternativefor many states, but in places like Maine, biomass has tended to supplant coal instead, presumably because it had already had a sizeable foothold in the region as a biproduct of it's timber industry. Similarly, North Carolina has turned to nuclear power due in part to it's history with nuclear research.
