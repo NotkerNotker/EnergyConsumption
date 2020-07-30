@@ -6,7 +6,7 @@ from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, inspect, func
 
-engine = create_engine('postgresql://postgres:Allywalt1980@localhost:5432/Project-2')
+engine = create_engine('postgresql://postgres:Notker4682@localhost:5432/EnergyDB')
 connection = engine.connect()
 inspector = inspect(engine)
 #print(inspector.get_table_names())
